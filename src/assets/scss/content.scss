@@ -66,9 +66,10 @@
 
 
 .mid-main{
+
     text-align: center;
-    // background: #f7f7f7;
     padding: 4% 0;
+
     h1{
         font-size: 2.5em;
         text-transform: uppercase;
@@ -86,9 +87,11 @@
             width: 70%;
         }
     }
+
     #logos-col{
         margin: 6% 0;
     }
+
 }
 
 .wrapper-auth-content{
@@ -400,7 +403,9 @@
 
 /*Links*/
 .frontLinks{
+
     display: flex;
+
     li{
         
         margin: 0 4px;

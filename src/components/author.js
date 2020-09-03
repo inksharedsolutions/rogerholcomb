@@ -23,7 +23,9 @@ const Author = () =>{
                             <span>Holcomb</span>
                         </h1>
                         
-                        <span className="author-tagline">Author & Writer</span>
+                        <span className="author-tagline">
+                          Author & Writer
+                        </span>
 
                      </div>
 
