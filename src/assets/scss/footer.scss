@@ -27,6 +27,7 @@
 
         li{
             list-style-type: none;
+
             a{
                 color: #fff !important;
                 background: #252222;
@@ -52,7 +53,6 @@
     h5{
         font-size: 20px;
         color: #f1f1f1;
-        // text-transform: uppercase;
         font-weight: 700;
         letter-spacing: 1px;
     }
@@ -75,7 +75,6 @@
     h5{
         font-size: 20px;
         color: #f1f1f1;
-        // text-transform: uppercase;
         font-weight: 700;
         letter-spacing: 1px;
     } 
@@ -123,9 +122,11 @@
             }
         }
     }
+
     p{
         font-size: 14px;
     }
+
 }
 
 

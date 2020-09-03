@@ -16,7 +16,6 @@ const MidBook = (props)=>{
                         </div>
 
                         <div className="content-wraps">
-
                             <span className="italic-tag">
                                 Read, listen, and learn in various formats
                             </span>
