@@ -10,12 +10,13 @@ const Author = () =>{
                      <div className="grid-child" id="author-contents">
 
                         <p>
-                           Kendell Easley served on the faculty of three
-                           institutions of Christian higher education,
-                           teaching mainly in the area of New Testament
-                           studies and New Testament Greek. He was people
-                           focused and mentored many students and pastors over
-                           a good cup of coffee.
+                          Often, I observe, people do not allow themselves
+                          to experience the wholeness of life. So the life
+                          experience may have started with me as a small
+                          lad, working along with my grandfather,
+                          Amos Brady Westfall. As my grandfather worked
+                          several jobs, as a school teachwer in one room school,
+                          a blacksmith, and also a farmer in Jackson County, West Virginia.
                         </p>
 
                         <h1 className="author-name-tag">

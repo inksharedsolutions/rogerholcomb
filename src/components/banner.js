@@ -18,10 +18,12 @@ const Banner = ()=>{
 
                                 <p className="right-sub-text">
                                    <span>
-                                      will die one day and leave this world
-                                      we now live in.  But the soul will live on.
-                                      There is a choice individual have to make--who
-                                      will be your choice the world or the Kingdom of God.
+                                      To know God and to embrace one's self
+                                      is the most genuine form of satisfaction.
+                                      Overcoming your inferiority lies behin
+                                      knowing your real identity. Reflect,
+                                      get to know yourself, and be free to
+                                      enjoy life for what it is
                                    </span>
                                 </p>
                                 

@@ -7,8 +7,8 @@ import React from 'react'
             <section className="parallax-bottom">
                 <div className="flex-container">
                     <h1>
-                        True fellowship with God is 
-                        enjoying a feast with His Trinity.
+                        To fully enjoy life, you must
+                        grasp and allow its wholeness
                         <span className="italic-tag span-verse">
                           Robert Holcomb
                         </span>
