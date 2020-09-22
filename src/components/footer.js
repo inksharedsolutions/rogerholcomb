@@ -24,7 +24,7 @@ const Footer = ()=>{
 
                         <p>
                             Robert Holcomb loves to hear from readers. You can reach him via email. 
-                            Feel free to send questions about writing, him works, interviews 
+                            Feel free to send questions about writing, his works, interviews 
                             and other publicity matters.
                         </p> 
                         

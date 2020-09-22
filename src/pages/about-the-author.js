@@ -27,10 +27,10 @@ const ATB = (props)=>{
 
                             <div className="heading-quote">
                                 <h4>
-                                  “All Flesh Will Die One Day And Leave This
-                                  World We Now Live In. But The Soul Will Live On. 
-                                  There Is A Choice Individual Have To Make--Who Will
-                                  Be Your Choice The World Or The Kingdom Of God”.
+                                  “To Know God And To Embrace One's Self Is The Most Genuine
+                                   Form Of Satisfaction. Overcoming Your Inferiority Lies Behin
+                                   Knowing Your Real Identity. Reflect, Get To Know Yourself,
+                                   And Be Free To Enjoy Life For What It Is”.
                                 </h4>
                                 <span className="ata-span-fx">
                                     author quote

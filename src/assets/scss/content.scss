@@ -336,16 +336,16 @@
 
 /*Bottom*/
 
-.parallax-bottom {
-    background: url("../../../static/banner/banner_lower.png");
-    // background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    background: #e6e6e6;
-    height: 60vh;
-}
+// .parallax-bottom {
+//     background: url("../../../static/banner/banner_lower.png");
+//     // background-attachment: fixed;
+//     background-position: center;
+//     background-repeat: no-repeat;
+//     background-attachment: fixed;
+//     background-size: cover;
+//     background: #e6e6e6;
+//     height: 60vh;
+// }
 
 .flex-container{
     display: grid;
@@ -545,11 +545,10 @@
     flex-direction: column;
     align-items: flex-start;
     text-align: left;
-    box-shadow: 1px 1px 48px 28px #d8d8d8;
-    // background-color: #d2be96;
-    // background-image: linear-gradient(315deg, #e6cb5f 0%, #c37a1e 69%);
+    box-shadow: 1px 1px 39px 6px #efefef;
     padding: 8% 9%;
     border-radius: 4%;
+    background: #e4e4e4;
 
 
     span{

@@ -19,12 +19,14 @@
     .right-sub-text{
         text-align: right;
         span{
-          text-transform: capitalize;
-            background: #26262661;
+            text-transform: capitalize;
+            // background: #26262661;
             padding: 3% 7%;
             font-family: Fanwood Text,serif;
             text-align: center;
             line-height: 21px;
+            border-bottom: 3px solid #ffffff78;
+            border-top: 3px solid #ffffff78;
         }
     }
 }
@@ -62,7 +64,7 @@
             }
         }
     }
-}
+}       
 
 .banner-section{
 
@@ -74,7 +76,7 @@
     
     &:after{
         content: "";
-        background: url("../../../static/banner/banner.jpg") no-repeat;
+        background: url("../../../static/banner/banner.png") no-repeat;
         position: absolute;
         height: 80vh;
         width: 100%;
@@ -83,9 +85,8 @@
         background-attachment: fixed;
         background-position: center;
         background-size: cover;
-    } 
-
-}       
+    }
+}
 
 .banner-img{
     
@@ -96,7 +97,7 @@
     align-items: center;
     text-align: center;
 
-    img{
+    img{ 
         position: absolute;
         left: 0;
         bottom: 0;
@@ -135,6 +136,8 @@
     line-height: 1;
     z-index: 1;
     margin-top: 16%;
+    border-top: 1px solid #888888;
+    border-bottom: 1px solid #888;
 
     h1{
 
@@ -147,7 +150,7 @@
         text-align: center;
 
         padding: 30px;
-        background: #00000029;
+        // background: #00000029;
 
         span{
             &:nth-child(1),
@@ -157,9 +160,10 @@
             }
 
             &:nth-child(2){
-                background: -webkit-linear-gradient(#fae66e, #fca84b);
+                background: -webkit-linear-gradient(#ddc852, #b57306);
                 -webkit-background-clip: text;
                 -webkit-text-fill-color: transparent;
+                font-size: 8rem;
             }
         }           
 
