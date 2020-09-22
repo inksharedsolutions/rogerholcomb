@@ -4,6 +4,9 @@ import Nav from '../components/nav'
 
 import Banner from '../components/non-front-banner'
 import AuthorImg from '../../static/author/main_author.png'
+import AuthSlider from '../components/auth-slider'
+
+
 
 const ATB = (props)=>{
 	
@@ -35,6 +38,11 @@ const ATB = (props)=>{
                                 <span className="ata-span-fx">
                                     author quote
                                 </span>
+
+                                <div className="container-slider">
+                                    <AuthSlider/>
+                                </div>
+                                
                             </div>
                         </div>
 

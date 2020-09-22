@@ -36,6 +36,7 @@
     "react-helmet": "^6.0.0",
     "react-player": "^2.6.0",
     "react-slick": "^0.26.1",
+    "slick-carousel": "^1.8.1",
     "three": "^0.119.1",
     "vanta": "^0.5.18"
   },

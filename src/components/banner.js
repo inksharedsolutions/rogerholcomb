@@ -13,10 +13,9 @@ const Banner = ()=>{
                     
                                 <h1>
                                    <span>Inner</span> 
-                                   <span>Reflection</span> 
+                                   <span>Reflection</span>
                                 </h1>
 
-                
                             </div>
                         </div>
                     </div>
