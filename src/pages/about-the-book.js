@@ -133,17 +133,13 @@ const ATB = (props)=>{
                                 }} 
                             /> 
 
-
-                             
-                            <div className="commentSection">
-                                <div id="disqus_thread">
-                                    <DiscussionEmbed {...disqusConfig} />
-                                </div>
-                            </div>
-                    </div>	
+                          <div className="commentSection">
+                              <div id="disqus_thread">
+                                  <DiscussionEmbed {...disqusConfig} />
+                              </div>
+                          </div>
+                    </div>
                 </main>
-
-
 		 	</Layout>
 		</>
 	)

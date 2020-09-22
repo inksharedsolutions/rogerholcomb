@@ -42,28 +42,25 @@ const ATB = (props)=>{
                                 <div className="container-slider">
                                     <AuthSlider/>
                                 </div>
-                                
+
                             </div>
                         </div>
 
                         <article className="article-section column" id="author">
                             <p>
-                                Often, I observe, people do not allow themselves to
-                                experience the wholeness of life. So the life experience
-                                may have started with me as a small lad, working along
-                                with my grandfather, Amos Brady Westfall. As my grandfather
-                                worked several jobs, as a school teachwer in one room school,
-                                a blacksmith, and also a farmer in Jackson County, West Virginia.
-                                Growing up I went to school finished in "1970", then moved to Ohio and worked.
-                                Then I met my wife Fraun. We got married and had our first son two years later.
-                                We attended an Assembly of God. We then moved to my hometown in West Virginia,
-                                I worked in a small church there. I was working to become a minister.
-                                We had two other children. Their names is Roger, Shawna, and Brady.
-                                They grew up and married and blessed us with nine grandchildren. 
-                                We now have seven great grandchildren. In 1990-1995 I pastored a 
-                                small independent church. In 1995-2002, I pastored in West Virginia, 
-                                and Holstein Conference in Virgina. I'm now retired and resides in Radford,
-                                Virginia, with family and friends.
+                                I felt the Call in the ministry at a young age of
+                                twenty five working with youth, teaching, and my
+                                new wife and I conducting children’s church, and 
+                                attending Bible School. We worked with children
+                                until our children were pre-teens. I went into full
+                                time pastoring, and continuing the course of study
+                                that I needed. Years had past by making friends, and
+                                working with all ages.seeing hundreds, and thousands
+                                of people come to Christ in their lives. Making Disciples
+                                for Christ is my passion, seeing them grow Spiritual,
+                                and understand what it means to have the love of God.
+                                My wife and I live in Fairlawn Virginia where I am spending
+                                my retirement, and writing books.    
                             </p>
 
                             <p>

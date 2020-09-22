@@ -5,8 +5,6 @@ import Nav from '../components/nav'
 
 const BlogPage = (props)=>{
 
-
-
     return (
         <>
             <Layout>
@@ -23,7 +21,9 @@ const BlogPage = (props)=>{
 
             </Layout>
         </>
-    ) 
+    )
+
+
 }       
 
 export default BlogPage;

@@ -12,7 +12,6 @@ import Img7 from '../../static/author/7.jpg'
 
 const AuthSlider = () =>{
 
-	const imgNameLen = 14;
 	const [mobState, __functState] = useState(false);
 
 
@@ -38,29 +37,7 @@ const AuthSlider = () =>{
 		<>
 			<Slider {...settings}>
 
-				<div className="book-wrapper-slider">
-                   <img src={Img1}/>
-                </div>
-
-                <div className="book-wrapper-slider">
-                   <img src={Img2}/>
-                </div>
-
-                <div className="book-wrapper-slider">
-                   <img src={Img3}/>
-                </div>
-
-                <div className="book-wrapper-slider">
-                   <img src={Img4}/>
-                </div>
-                
-                <div className="book-wrapper-slider">
-                   <img src={Img6}/>
-                </div>
-
-                <div className="book-wrapper-slider">
-                   <img src={Img7}/>
-                </div>
+		
 			</Slider>
 		</>
 	)
