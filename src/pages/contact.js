@@ -24,9 +24,7 @@ const Contact = (props)=>{
             	console.log('something went wrong')
             }
         };
-
         xhr.send(data);
-       
     }
     
 
