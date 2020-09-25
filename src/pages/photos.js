@@ -28,7 +28,7 @@ const Photos = (props)=>{
          	<Banner   
                 spanFirst={``}
                 contextHeading={`Photos`}/>
-            
+            <span></span>
             <section className="section-photo-grid">
             	<div className="row">
             		<div className="column">
