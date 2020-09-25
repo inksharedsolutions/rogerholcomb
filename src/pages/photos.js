@@ -33,6 +33,8 @@ const Photos = (props)=>{
                 spanFirst={``}
                 contextHeading={`Photos`}/>
 
+            <span></span>
+            
             <section className="section-photo-grid">
             	<div className="row">
 
