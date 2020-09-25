@@ -9,10 +9,12 @@ import Img1 from '../../static/author/1.jpg'
 import Img2 from '../../static/author/2.jpg'
 import Img3 from '../../static/author/3.jpg'
 import Img4 from '../../static/author/4.jpg'
+
 import Img5 from '../../static/author/5.png'
 import Img6 from '../../static/author/6.jpg'
 import Img7 from '../../static/author/7.jpg'
 import Img8 from '../../static/author/8.jpg'
+
 import Img9 from '../../static/author/9.jpg'
 import Img10 from '../../static/author/10.jpg'
 import Img11 from '../../static/author/11.jpg'
@@ -28,7 +30,7 @@ const Photos = (props)=>{
          	<Banner   
                 spanFirst={``}
                 contextHeading={`Photos`}/>
-            <span></span>
+
             <section className="section-photo-grid">
             	<div className="row">
             		<div className="column">
