@@ -19,6 +19,7 @@ import Img9 from '../../static/author/9.jpg'
 import Img10 from '../../static/author/10.jpg'
 import Img11 from '../../static/author/11.jpg'
 import Img12 from '../../static/author/12.jpg'
+
 import Img13 from '../../static/author/13.jpg'
 import Img14 from '../../static/author/13.jpg'
 
@@ -27,12 +28,14 @@ const Photos = (props)=>{
 		<>
          <Layout>
             <Nav pathExt={props.path}/>
-         	<Banner   
+
+         	<Banner
                 spanFirst={``}
                 contextHeading={`Photos`}/>
 
             <section className="section-photo-grid">
             	<div className="row">
+
             		<div className="column">
             		  <img src={Img1} alt="auth-images"/>
             		  <img src={Img2} alt="auth-images"/>
@@ -41,18 +44,19 @@ const Photos = (props)=>{
             		</div>
 
             		<div className="column">
-            		  <img src={Img5} alt="auth-images"/>
             		  <img src={Img6} alt="auth-images"/>
             		  <img src={Img7} alt="auth-images"/>
             		  <img src={Img8} alt="auth-images"/>
+                      <img src={Img9} alt="auth-images"/>
             		</div>
 
             		<div className="column">
-            		  <img src={Img9} alt="auth-images"/>
             		  <img src={Img10} alt="auth-images"/>
             		  <img src={Img11} alt="auth-images"/>
             		  <img src={Img12} alt="auth-images"/>
+                      <img src={Img13} alt="auth-images"/>
             		</div>
+
             	</div>
            	</section>
 
