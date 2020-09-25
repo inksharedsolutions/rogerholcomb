@@ -10,7 +10,7 @@ import Img2 from '../../static/author/2.jpg'
 import Img3 from '../../static/author/3.jpg'
 import Img4 from '../../static/author/4.jpg'
 
-import Img5 from '../../static/author/5.png'
+// import Img5 from '../../static/author/5.png'
 import Img6 from '../../static/author/6.jpg'
 import Img7 from '../../static/author/7.jpg'
 import Img8 from '../../static/author/8.jpg'
