@@ -49,7 +49,7 @@ const Photos = (props)=>{
             		  <img src={Img6} alt="auth-images"/>
             		  <img src={Img7} alt="auth-images"/>
             		  <img src={Img8} alt="auth-images"/>
-                      <img src={Img9} alt="auth-images"/>
+                  <img src={Img9} alt="auth-images"/>
             		</div>
 
             		<div className="column-grid">

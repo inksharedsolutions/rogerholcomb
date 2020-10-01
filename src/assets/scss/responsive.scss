@@ -502,6 +502,16 @@
         h1{
             margin: 0;
             font-size: 19vw;
+            
+            span{
+                &:nth-child(2){
+                    font-size: 4rem;
+                }
+
+                &:nth-child(1){
+                    font-size: 3rem;
+                }
+            }
         }
     }
 }
