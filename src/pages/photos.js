@@ -38,21 +38,21 @@ const Photos = (props)=>{
             <section className="section-photo-grid">
             	<div className="row">
 
-            		<div className="column">
+            		<div className="column-grid">
             		  <img src={Img1} alt="auth-images"/>
             		  <img src={Img2} alt="auth-images"/>
             		  <img src={Img3} alt="auth-images"/>
             		  <img src={Img4} alt="auth-images"/>
             		</div>
 
-            		<div className="column">
+            		<div className="column-grid">
             		  <img src={Img6} alt="auth-images"/>
             		  <img src={Img7} alt="auth-images"/>
             		  <img src={Img8} alt="auth-images"/>
                       <img src={Img9} alt="auth-images"/>
             		</div>
 
-            		<div className="column">
+            		<div className="column-grid">
             		  <img src={Img10} alt="auth-images"/>
             		  <img src={Img11} alt="auth-images"/>
             		  <img src={Img12} alt="auth-images"/>
