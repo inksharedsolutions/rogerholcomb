@@ -35,7 +35,7 @@ const Footer = ()=>{
                                 <a href="https://www.facebook.com/byKendellEasley/"
                                 target="_blank"
                                 rel="noreferrer">
-                                    <FontAwesomeIcon   
+                                    <FontAwesomeIcon
                                         className='font-awesome'
                                         icon={faFacebook} />
                                 </a>
