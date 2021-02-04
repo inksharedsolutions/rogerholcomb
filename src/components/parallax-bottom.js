@@ -10,7 +10,7 @@ import React from 'react'
                         To fully enjoy life, you must
                         grasp and allow its wholeness
                         <span className="italic-tag span-verse">
-                          Robert Holcomb
+                            Roger Holcomb
                         </span>
                     </h1>
                 </div>
