@@ -6,8 +6,6 @@ import BookInfo from '../components/book-info/book-info'
 import { DiscussionEmbed } from "disqus-react"
 import Book1 from '../../static/books/Book_Cover.png'
 import Book2 from '../../static/books/Book_Cover_02.png'
-import Book3 from '../../static/books/Book_Cover_03.png'
-
 
 const ATB = (props)=>{
 
@@ -17,7 +15,6 @@ const ATB = (props)=>{
 	  shortname: 'roger-holcomb',
 	  config: { identifier:  12, slug}
     }
-      
 
 	return (
 		<>
@@ -144,6 +141,5 @@ const ATB = (props)=>{
 		</>
 	)
 }
-
 
 export default ATB;

@@ -83,12 +83,11 @@ const Nav = (props) =>{
 						<img 
 							className="logo-img"
 							src={Logo}
+							alt="Author logo"
 						/>
 						
 					</Link>
 				</h1>
-
-				<h1></h1>
 
 				<ul
 					className="hamburger-ul"

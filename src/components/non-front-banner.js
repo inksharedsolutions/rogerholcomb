@@ -1,7 +1,4 @@
-import React, { useState } from 'react'
-import {Link} from 'gatsby'
-
- 
+import React from 'react'
 
 const NFB = (props)=>{
 

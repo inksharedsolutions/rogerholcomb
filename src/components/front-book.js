@@ -1,7 +1,6 @@
 import React from 'react'
 import {Link} from 'gatsby'
 import FrontBook from '../../static/books/Book_Cover.png'
-import Accordions from '../containers/accordions'
 
 const MidBook = (props)=>{
     return(
@@ -12,7 +11,7 @@ const MidBook = (props)=>{
                     <div className="grid-two-columns" id="wrapper-two-books">
 
                         <div className="book-wraps">
-                            <img src={FrontBook}/>
+                            <img src={FrontBook} alt="book cover"/>
                         </div>
 
                         <div className="content-wraps">

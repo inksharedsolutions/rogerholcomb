@@ -21,7 +21,6 @@ import Img11 from '../../static/author/11.jpg'
 import Img12 from '../../static/author/12.jpg'
 
 import Img13 from '../../static/author/13.jpg'
-import Img14 from '../../static/author/13.jpg'
 
 const Photos = (props)=>{
 	return(
