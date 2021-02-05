@@ -7,10 +7,9 @@ import React from 'react'
             <section className="parallax-bottom">
                 <div className="flex-container">
                     <h1>
-                        To fully enjoy life, you must
-                        grasp and allow its wholeness
+                        Spiritual minded produces spiritual stability and pursuits it.
                         <span className="italic-tag span-verse">
-                            Roger Holcomb
+                            &nbsp;
                         </span>
                     </h1>
                 </div>

@@ -25,13 +25,7 @@ const MidBook = (props)=>{
                             </h1>
 
                             <p>
-                                Stepping into personal insights and stories with
-                                reflection of the past. Read the stories and come
-                                to better understanding of human condition.
-                                What it means to be a christian and of life itself.
-                                Expressing ideas, hurts, and pain with frustrations.
-                                As a person share themselves their dreams, and hopes
-                                revealed and problems are uncovered.
+                                Stepping into personal insights and stories with reflection of the past. Read the stories and come to better understanding of human condition. What it means to be a christian and of life itself. Expressing ideas, hurts, and pain with frustrations. As a person share themselves their dreams, and hopes revealed and problems are uncovered.
                             </p>
 
                             <button className="btn-book-featured">

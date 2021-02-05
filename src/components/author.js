@@ -10,14 +10,7 @@ const Author = () =>{
                      <div className="grid-child" id="author-contents">
 
                         <p>
-                        
-                          I felt the Call in the ministry at a young age
-                          of twenty five working with youth, teaching,
-                          and my new wife and I conducting children’s church,
-                          and  attending Bible School. We worked with children
-                          until our children were pre-teens. I went into full
-                          time pastoring, and continuing the course of study that I needed.
-
+                            I felt the Call in the ministry at a young age of twenty five working with youth, teaching, and my new wife and I conducting children’s church, and attending Bible School. We worked with children until our children were pre-teens. I went into full time pastoring, and continuing the course of study that I needed.
                         </p>
 
                         <h1 className="author-name-tag">
