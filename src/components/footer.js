@@ -32,7 +32,7 @@ const Footer = ()=>{
                         <ul>
 
                             <li>
-                                <a href="https://www.facebook.com/byKendellEasley/"
+                                <a href="https://www.facebook.com/StrattonPressInc"
                                 target="_blank"
                                 rel="noreferrer">
                                     <FontAwesomeIcon
@@ -70,7 +70,7 @@ const Footer = ()=>{
                             <li>
                                 <a 
                                     target="_blank"
-                                    href="https://www.goodreads.com/author/show/18592823.Kendell_Easley"
+                                    href="https://www.goodreads.com/book/show/42740573-inner-reflection"
                                     rel="noreferrer"
                                     >
 
