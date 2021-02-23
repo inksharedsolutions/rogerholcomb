@@ -6,6 +6,7 @@ import BookInfo from '../components/book-info/book-info'
 import { DiscussionEmbed } from "disqus-react"
 import Book1 from '../../static/books/Book_Cover.png'
 import Book2 from '../../static/books/Book_Cover_02.png'
+import Book3 from '../../static/books/Book_Cover_03.png'
 
 const ATB = (props)=>{
 
@@ -65,7 +66,7 @@ const ATB = (props)=>{
                                 }} 
                             />
 
-                             <BookInfo
+                            <BookInfo
                                 data={{
                                     title:`Being Set Free`,
                                     spanFirst:`Pursue Purify Living`,
@@ -89,7 +90,26 @@ const ATB = (props)=>{
                                         booksamillion:'https://www.booksamillion.com/p/Being-Set-Free/Roger-K-Holcomb/9781648950834',
                                     }
                                 }} 
-                            /> 
+                            />
+
+                            <div className="columns book-container-ft">
+                                <div className="column">
+                                    <div className="bookImgContainer">
+                                        <img alt="Pneuma The Work of the Holy Spirit" src={Book3} />
+                                    </div>
+                                </div>
+                                <div className="column">
+                                    <section className="contentBook">
+                                        <h1>Pneuma</h1>
+                                        <p className="sub-heading">The Work of the Holy Spirit</p>
+                                        <div className="content-body">
+                                            <p>
+                                                Often observes Roger K. Holcomb, people do not allow themselves to experience the wholeness of life. So the life experience may have started with me as a small lad, working along with my grandfather, Amos Brady Westfall. As my grandfather worked several jobs, a school teacher in one room school, Jackson County, West Virginia, a blacksmith, and also a farmer. Growing up I went to school and finished in, “1970” Then we moved to Ohio and worked and met my wife Fraun, Two years went by we had our first son. I worked in small Assembly Of God’s Church’s. I was also working to become a minister. Later are two other children were born. The three children’s names are Roger, Shawna, Brady and they are married and blessed us with ten grandchildren and all working church. In 1990 to 1995 I pastored a small Independent church for five years. From 1995 to 2002 I pastored a Independent church In West Virginia Conference, and Hosten Conference in Virginia. Roger Holcomb resides in Radford Virginia today with my family and friends.
+                                            </p>
+                                        </div>
+                                    </section>
+                                </div>
+                            </div>
 
                           <div className="commentSection column">
                               <div id="disqus_thread">
