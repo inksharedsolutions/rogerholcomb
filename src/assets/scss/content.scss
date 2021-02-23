@@ -370,6 +370,42 @@
 	}
 }
 
+.testimonial-container {
+	.testimonial {
+		position: relative;
+		background-color: #ebf5e6;
+
+		&:before {
+			content: 'testimonials';
+			position: absolute;
+			font-size: 10em;
+			font-weight: 900;
+			text-transform: capitalize;
+			color: #cacaca66;
+			text-transform: uppercase;
+			top: -1em;
+		}
+
+		h1 {
+			position: relative;
+
+			&:before {
+				content: '';
+				width: 13%;
+				background: #e4ba3d;
+				position: relative;
+				display: block;
+				height: 4px;
+				margin: 7px 0px;
+			}
+		}
+
+		p {
+			padding: 0 100px;
+		}
+	}
+}
+
 /*Links*/
 .frontLinks {
 	display: flex;

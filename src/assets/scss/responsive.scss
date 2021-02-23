@@ -48,6 +48,18 @@
 		}
 	}
 
+	.testimonial-container {
+		.testimonial {
+			&:before {
+				display: none;
+			}
+
+			p {
+				padding: 0 15px;
+			}
+		}
+	}
+
 	body {
 		font-size: 14px;
 	}
